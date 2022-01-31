@@ -1,0 +1,1 @@
+Attempting to commit a new file from the command line.
